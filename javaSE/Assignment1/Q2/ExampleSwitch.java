@@ -1,5 +1,5 @@
-package Day1;
-
+/*2)	declare two numbers and one operator as a character. e.g. '+'
+using switch... case check which operator is declared and accordingly perform the action. */
 import java.util.Scanner;
 
 public class ExampleSwitch {
