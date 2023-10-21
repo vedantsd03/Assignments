@@ -1,3 +1,7 @@
+/*
+3) Display numbers  1 to 10 using loop
+*/
+
 public class Pattern1 {
 	public static void main(String[] args) {
 		char a = 'A';
