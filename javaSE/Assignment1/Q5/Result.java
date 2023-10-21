@@ -1,5 +1,8 @@
-import java.util.Scanner;
+/*
+Using if…….else if….  Else,  display whether result is  fail, pass, second class , first class, Distinction etc. 
+*/
 
+import java.util.Scanner;
 public class Result {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
