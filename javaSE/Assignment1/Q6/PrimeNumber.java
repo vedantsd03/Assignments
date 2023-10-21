@@ -1,3 +1,4 @@
+/*display all prime numbers between 3 to 30*/
 public class PrimeNumber {
 	public static void main(String[] args) {
 		int count=0;
