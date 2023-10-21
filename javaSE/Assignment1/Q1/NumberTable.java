@@ -1,6 +1,6 @@
-package Day1;
-
-import java.util.Scanner;
+/*
+1)  display a table of a particular number 
+*/import java.util.Scanner;
 
 public class NumberTable {
 	public static void main(String[] args) {
