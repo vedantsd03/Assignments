@@ -1,4 +1,21 @@
-ublic class Pattern1 {
+/*
+7) using nested for loop display following :
+
+A  a
+A  b
+A  c
+
+B  a
+B  b
+B  c
+
+C  a
+C  b
+C  c
+
+*/
+
+public class Pattern1 {
 	public static void main(String[] args) {
 		char a = 'A';
 		char b = 'a';
