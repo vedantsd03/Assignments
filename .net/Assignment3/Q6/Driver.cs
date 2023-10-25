@@ -29,11 +29,12 @@ namespace ConsoleApp2
         double salary;
         double net_salary;
         Dept d;
+        int id
         static float roi = 0.7f;
 
         public Employee(string name, int salary, Dept d)
         {
-            int id = ++mamber_id;
+            id = ++mamber_id;
             this.name = name;
             this.salary = salary;
             this.d = d;
