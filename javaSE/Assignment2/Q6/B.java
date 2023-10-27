@@ -1,0 +1,20 @@
+package Day2;
+class B{
+	private static int nums=30 ;
+	private int num;
+	static {
+		System.out.println("from Static block B");
+	}
+	B(int num){
+		this.num = num;
+	}
+
+	public static int getNums() {
+		return nums;
+	}
+
+	public int getNum() {
+		return num;
+	}
+	
+}
