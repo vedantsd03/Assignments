@@ -1,5 +1,5 @@
 ﻿
-namespace AccountDemo
+namespace ConsoleApp2
 {
     abstract class Account
     {
