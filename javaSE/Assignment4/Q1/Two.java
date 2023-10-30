@@ -1,3 +1,8 @@
+/* 
+1)Define 2 classes “First” and “Second” with member variables , member functions and constructors of  your choice.
+Now define a class “Two” in which define main function . 
+In main function create various instances of First and Second  and call their individual member functions.
+*/
 import package1.*;
 
 public class Two {
