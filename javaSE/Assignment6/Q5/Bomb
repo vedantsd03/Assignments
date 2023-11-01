@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+package weaponpack;
+
+/**
+ * @author Vedant
+ *
+ */
+public class Bomb extends Weapon {
+	void attack() {
+		System.out.println("using bomb to attack");
+	}
+}
