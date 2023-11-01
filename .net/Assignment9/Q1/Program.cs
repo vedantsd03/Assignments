@@ -1,3 +1,6 @@
+/*Create the class and define the user define Exception 
+*/
+
 namespace ExceptionProject
 {
     internal class Program
