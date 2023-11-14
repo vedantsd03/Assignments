@@ -1,4 +1,4 @@
-1) accept two numbers and add them.
+//1) accept two numbers and add them.
 
 import java.util.Scanner;
 class Add
